@@ -6,10 +6,20 @@ This is a simple version of a Banking Application built using Spring Boot 3, Spr
 ## Features
 
 - **Create Bank Account**: Allows users to create a new bank account.
+- ![image](https://github.com/yogesh78026/BankingApplication/assets/77293859/fa5c1405-f4a7-4b63-aa68-ab4fc1055ec0)  
+
 - **Fetch Account Details**: Retrieve details of a specific bank account using the account ID.
+- ![image](https://github.com/yogesh78026/BankingApplication/assets/77293859/5777a7a1-4598-4a81-9fd0-788db6927135)  
+
 - **Make a Deposit**: Deposit a specified amount into a bank account.
-- **Make a Withdrawal**: Withdraw a specified amount from a bank account.
+- ![image](https://github.com/yogesh78026/BankingApplication/assets/77293859/30f7375b-50ec-4002-9aaf-474f187dbb06)  
+
+- **Details of All Accounts**: Get all the details of the account created in the bank.
+![image](https://github.com/yogesh78026/BankingApplication/assets/77293859/f2526324-9dfb-4ca5-bf62-f3642fea204a)  
+  
 - **Delete Account**: Remove a bank account from the system.
+- ![image](https://github.com/yogesh78026/BankingApplication/assets/77293859/b5439703-59a7-4ec0-80db-9e6efe6aa7cd)
+
 
 ## Technologies Used
 
